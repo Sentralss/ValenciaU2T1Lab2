@@ -7,7 +7,7 @@ public class CircleRunner {
         // B. locate the method defined in the Circle class and write
         //    a line of code to call it on your object
         circ1.printArea();
-        // C. BEFORE running this code, PREDICT what gets printed
+        // C. BEFORE running this code, PREDICt what gets printed
 
         // D. run the code and confirm your prediction! Were you correct?
     }
